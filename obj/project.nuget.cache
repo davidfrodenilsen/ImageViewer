@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "65+XWpa2e7s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\00867\\NET\\ImageViewer\\ImageViewer\\ImageViewer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\00867\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.0\\microsoft.win32.systemevents.9.0.0.nupkg.sha512",
+    "C:\\Users\\00867\\.nuget\\packages\\system.drawing.common\\9.0.0\\system.drawing.common.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Users\00867\NET\ImageViewer\ImageViewer\obj\Debug\net6.0-windows\ImageViewer.csproj.AssemblyReference.cache
+C:\Users\00867\NET\ImageViewer\ImageViewer\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\00867\NET\ImageViewer\ImageViewer\obj\Debug\net6.0-windows\App.baml
+C:\Users\00867\NET\ImageViewer\ImageViewer\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\00867\NET\ImageViewer\ImageViewer\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\00867\NET\ImageViewer\ImageViewer\obj\Debug\net6.0-windows\ImageViewer_MarkupCompile.cache
+C:\Users\00867\NET\ImageViewer\ImageViewer\obj\Debug\net6.0-windows\ImageViewer.g.resources
+C:\Users\00867\NET\ImageViewer\ImageViewer\obj\Debug\net6.0-windows\ImageViewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\00867\NET\ImageViewer\ImageViewer\obj\Debug\net6.0-windows\ImageViewer.AssemblyInfoInputs.cache
+C:\Users\00867\NET\ImageViewer\ImageViewer\obj\Debug\net6.0-windows\ImageViewer.AssemblyInfo.cs
+C:\Users\00867\NET\ImageViewer\ImageViewer\obj\Debug\net6.0-windows\ImageViewer.csproj.CoreCompileInputs.cache
