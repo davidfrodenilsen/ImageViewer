@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Python\ImageViewer\ImageViewer\obj\Debug\net8.0-windows\
+C:\Python\ImageViewer\ImageViewer\obj\Release\net8.0-windows\
 ImageViewer
 none
 false
-TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+TRACE;RELEASE;NET;NET8_0;NETCOREAPP
 C:\Python\ImageViewer\ImageViewer\App.xaml
 11407045341
 
